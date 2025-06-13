@@ -86,7 +86,7 @@ All data is stored using **JSON** files via the `JsonFileHandler` class:
 
 ## 👥 Contributors
 
-- Sky (ENSIA Student)
+- Benikdes Naima Fatima Zohra (ENSIA Student)
 
 ---
 
